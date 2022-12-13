@@ -1,0 +1,6 @@
+ 
+ Device is  Intel(R) Xeon(R) Gold 6126 CPU @ 2.60GHz 
+ CPU from  GenuineIntel  with a max of 24 compute units 
+
+The kernel ran in 0.037270 seconds
+C = A+B:  1024 out of 1024 results were correct.
